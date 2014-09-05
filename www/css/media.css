@@ -1,0 +1,183 @@
+@media screen and (max-width: 1920px)
+{
+    
+    
+   
+    #sliderbanner .slider-banner
+    {
+     width:1920px !important;
+     
+     }
+}
+@media screen and (max-width: 1280px)
+{
+    #sliderbanner .slider-banner
+    {
+     width:1280px !important;
+     
+     }
+}
+
+
+@media screen and (max-width: 1084px)
+{
+    #sliderbanner .slider-banner
+    {
+     width:1084px !important;
+     
+     }
+}
+
+@media screen and (max-width: 915px)
+{
+    #sliderbanner .slider-banner
+    {
+     width:915px !important;
+     
+     }
+}
+
+@media screen and (max-width: 800px)
+{
+    #sliderbanner .slider-banner
+    {
+     width:800px !important;
+     
+     }
+}
+
+
+
+
+
+@media screen and (max-width: 768px)
+{
+   #sliderbanner .slider-banner
+    {
+     width:768px !important;
+     
+     }
+}
+@media screen and (max-width: 750px)
+{
+   #sliderbanner .slider-banner
+    {
+     width:750px !important;
+     
+     }
+}
+@media screen and (max-width: 750px)
+{
+    #sliderbanner .slider-banner
+    {
+     width:750px !important;
+     
+     }
+}
+
+@media screen and (max-width: 650px)
+{
+   #sliderbanner .slider-banner
+    {
+     width:650px !important;
+     
+     }
+}
+
+
+
+@media screen and (max-width: 530px)
+{
+    #sliderbanner .slider-banner
+    {
+     width:530px !important;
+     
+     }
+
+}
+@media screen and (max-width: 470px)
+{
+    #sliderbanner .slider-banner
+    {
+     width:470px !important;
+     
+     }
+}
+@media screen and (max-width: 450px)
+{
+    
+  #sliderbanner .slider-banner
+    {
+     width:450px !important;
+     
+     }
+   
+}
+
+@media screen and (max-width: 430px)
+{
+#sliderbanner .slider-banner
+    {
+     width:430px !important;
+     
+     }
+
+}
+
+
+@media screen and (max-width: 395px)
+{
+   #sliderbanner .slider-banner
+    {
+     width:395px !important;
+     
+     }
+}
+
+
+
+@media screen and (max-width: 360px)
+{
+   #sliderbanner .slider-banner
+    {
+     width:360px !important;
+     
+     }
+      #searchbar input.ui-input-text, textarea.ui-input-text
+        {
+            color: black !important;
+            font-size: 20px !important;
+            height: 40px !important;
+            padding: 0;
+            text-align: center;
+            background-image:url(../images/searchbg.png);
+            background-repeat:no-repeat;
+            background-position:1% 48%;
+            padding-left:8% !important;
+        }
+}
+
+@media screen and (max-width: 320px)
+{
+    #sliderbanner .slider-banner
+    {
+     width:320px !important;
+     
+     }
+     
+        #searchbar input.ui-input-text, textarea.ui-input-text
+        {
+            color: #d9d9d9;
+            font-size: 100% !important;
+            height: 35px !important;
+            padding: 0;
+            text-align: center;
+            background-image:url(../images/searchbg.png);
+            background-repeat:no-repeat;
+            background-position:1% 38%;
+            padding-left:8% !important;
+            
+        }
+     
+     
+}

@@ -1,0 +1,783 @@
+@media screen and (max-width: 1920px)
+{
+    .department-title p
+    {
+        font-size: 80%;
+    }
+
+    .searchbox
+    {
+        float: left;
+        padding: 0;
+        padding-top: 0.5%;
+        width: 30%;
+    }
+    .shopbydept .navbar .nav > li > a
+    {
+        color: #777777;
+        float: none;
+        padding: 4%;
+        text-decoration: none;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 23%;
+        float: left;
+        left: 27%;
+        position: absolute;
+    }
+    .navbar
+    {
+        color: #000;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100%;
+    }
+    .userbox
+    {
+        float: left;
+        margin-top: 0;
+        text-align: center;
+        width: 12%;
+    }
+    .userbox p
+    {
+        border-right: 1px solid #d9d9d9;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100%;
+        font-weight: bold;
+        margin: 0;
+        padding: 0 !important;
+    }
+    .menu
+    {
+        float: left;
+        margin-top: 1%;
+        text-align: center;
+        width: 10%;
+    }
+    .menu p
+    {
+        border-right: 1px solid #d9d9d9;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100%;
+        font-weight: bold;
+        margin: 0;
+        padding: 0 !important;
+    }
+    .currency
+    {
+        float: left;
+        margin-top: 1%;
+        text-align: center;
+        width: 10%;
+    }
+    .currency p
+    {
+        border-right: 1px solid #d9d9d9;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100%;
+        font-weight: bold;
+        margin: 0;
+        padding: 0 !important;
+    }
+    .menu p
+    {
+        border-right: 1px solid #d9d9d9;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100%;
+        font-weight: bold;
+        margin: 0;
+        padding: 0 !important;
+        color: black;
+    }
+    .cart
+    {
+        float: right;
+        margin: 0.5% 0 0;
+        text-align: center;
+        width: 7%;
+    }
+    .cart img
+    {
+        width: 41%;
+    }
+    .shopbydept .dropdown-toggle span img
+    {
+        width: 100%;
+    }
+    .menu .dropdown-menu .span-menu-title
+    {
+        font-family: Arial;
+        font-size: 75%;
+        font-weight: bold;
+        padding: 0 0 0 10%;
+        vertical-align: middle;
+    }
+    .menu .nav > li > a
+    {
+        padding: 10%;
+    }
+    .menu
+    {
+        margin: 0;
+    }
+    .menu .dropdown-menu span img
+    {
+        width: 9%;
+    }
+    .menu .open > .dropdown-menu
+    {
+        display: block;
+        margin-left: -13%;
+        margin-top: -5%;
+    }
+    .menu .dropdown-menu
+    {
+        background-clip: padding-box;
+        background-color: #ffffff;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        border-radius: 6px;
+        display: none;
+        float: left;
+        left: 0;
+        list-style: none outside none;
+        margin: 2px 0 0;
+        min-width: 110%;
+        padding: 0;
+        position: absolute;
+        top: 100%;
+        z-index: 1000;
+    }
+    .shopbydept .dropdown-menu > li > a
+    {
+        clear: both;
+        color: #333333;
+        display: block;
+        font-size: 75%;
+        font-weight: 700;
+        line-height: 25px;
+        padding: 0 10%;
+        white-space: nowrap;
+    }
+    .currency p span
+    {
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+    .secondlogo img
+    {
+        padding: 6%;
+        width: 42%;
+    }
+    .toplogo img
+    {
+        width: 6%;
+    }
+    .dropdown-menu > li > a
+    {
+        clear: both;
+        color: #333333;
+        display: block;
+        font-size: 100%;
+        font-weight: 700;
+        line-height: 175%;
+        padding: 0 10%;
+        white-space: nowrap;
+    }
+}
+@media screen and (max-width: 1280px)
+{
+    .department-title p
+    {
+        font-size: 75%;
+    }
+
+    .menu .open > .dropdown-menu
+    {
+        margin-left: -154%;
+    }
+    .menu .dropdown-menu
+    {
+        min-width: 350%;
+    }
+    .menu .dropdown-menu span img
+    {
+        width: 13%;
+    }
+
+    .shopbydept .dropdown-menu > li > a
+    {
+        line-height: 28px;
+    }
+    .searchbox
+    {
+        float: left;
+        padding: 0;
+        padding-top: 0.5%;
+        width: 30%;
+    }
+    .menu .dropdown-menu
+    {
+        background-clip: padding-box;
+        background-color: #ffffff;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        border-radius: 6px;
+        display: none;
+        float: left;
+        left: 0;
+        list-style: none outside none;
+        margin: 2px 0 0;
+        min-width: 150%;
+        padding: 0;
+        position: absolute;
+        top: 100%;
+        z-index: 1000;
+    }
+    .menu .open > .dropdown-menu
+    {
+        display: block;
+        margin-left: -36%;
+        margin-top: -5%;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 17%;
+        float: left;
+        left: 37%;
+        position: absolute;
+    }
+    .cart
+    {
+        float: right;
+        margin: 7px 0 0;
+        text-align: center;
+        width: 7%;
+    }
+    .secondlogo img
+    {
+        width: 55%;
+        padding-top: 6%;
+    }
+
+}
+@media screen and (max-width: 980px)
+{
+
+    .shopbydept .dropdown-menu > li > a
+    {
+        line-height: 28px;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 14%;
+        float: left;
+        left: 47%;
+        position: absolute;
+    }
+    .secondlogo img
+    {
+        width: 82%;
+        padding-top: 6%;
+    }
+    .menu .dropdown-menu
+    {
+        background-clip: padding-box;
+        background-color: #ffffff;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        border-radius: 6px;
+        display: none;
+        float: left;
+        left: 0;
+        list-style: none outside none;
+        margin: 2px 0 0;
+        min-width: 250%;
+        padding: 0;
+        position: absolute;
+        top: 100%;
+        z-index: 1000;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 16%;
+        float: left;
+        left: 43%;
+        position: absolute;
+    }
+    .shopbydept p
+    {
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 78%;
+        font-weight: bold;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .userbox p
+    {
+        border-right: 1px solid #d9d9d9;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 90%;
+        font-weight: bold;
+        margin: 0;
+        padding: 0 !important;
+    }
+    .menu p
+    {
+        border-right: 1px solid #d9d9d9;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 90%;
+        font-weight: bold;
+        margin: 0;
+        padding: 0 !important;
+    }
+    .currency p
+    {
+        border-right: 1px solid #d9d9d9;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 90%;
+        font-weight: bold;
+        margin: 0;
+        padding: 0 !important;
+    }
+    .menu .open > .dropdown-menu
+    {
+        display: block;
+        margin-left: -66%;
+        margin-top: -5%;
+    }
+}
+
+
+@media screen and (max-width: 1198px)
+{
+
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 17%;
+        left: 40%;
+    }
+
+}
+@media screen and (max-width: 1084px)
+{
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 16%;
+        left: 45%;
+    }
+}
+
+@media screen and (max-width: 915px)
+{
+    .shopbydept .dropdown-menu
+    {
+        min-width: 125%;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 16%;
+        left: 49%;
+    }
+    .department-title p
+    {
+        font-size: 75%;
+    }
+}
+
+@media screen and (max-width: 800px)
+{
+    .footernavbar
+    {
+        font-size: 80%;
+    }
+    .dropdown-menu > li > a
+    {
+        line-height: 150%;
+    }
+    .menu .dropdown-menu
+    {
+        min-width: 300%;
+    }
+    .menu .open > .dropdown-menu
+    {
+        margin-left: -127%;
+    }
+
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 14%;
+        float: left;
+        left: 51%;
+        position: absolute;
+    }
+    .shopbydept p, .menu p, .userbox p, .currency p
+    {
+        font-size: 64%;
+    }
+    .shopbydept .dropdown-menu > li > a
+    {
+        font-size: 55%;
+        line-height: 28px;
+    }
+    .cart
+    {
+        margin: 4px 0 0;
+    }
+
+    .userbox
+    {
+        margin-top: 0;
+    }
+}
+
+
+
+
+
+@media screen and (max-width: 768px)
+{
+    .proddesc
+    {
+        font-size:80%;
+        }
+    .menu .dropdown-menu span img
+    {
+        width: 15%;
+    }
+    .toplogo img
+    {
+        width: 10%;
+    }
+
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 14%;
+        float: left;
+        left: 47%;
+        position: absolute;
+    }
+}
+@media screen and (max-width: 750px)
+{
+   
+}
+@media screen and (max-width: 750px)
+{
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 13%;
+        float: left;
+        left: 50%;
+        position: absolute;
+    }
+}
+
+@media screen and (max-width: 650px)
+{
+     .shopbydept .dropdown-menu
+    {
+        min-width: 150%;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 12%;
+        float: left;
+        left: 52%;
+        position: absolute;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 9%;
+        float: left;
+        left: 62%;
+        position: absolute;
+    }
+
+    .cart
+    {
+        margin: 1px 0 0;
+    }
+}
+
+
+
+@media screen and (max-width: 530px)
+{
+    .footernavbar
+    {
+        font-size: 70%;
+    }
+    .department-title p
+    {
+        font-size: 58%;
+    }
+
+    .shopbydept .dropdown-menu
+    {
+        min-width: 180%;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 8%;
+        float: left;
+        left: 67%;
+        position: absolute;
+    }
+
+}
+@media screen and (max-width: 470px)
+{
+    .proddesc
+    {
+        font-size: 53%;
+    }
+    .shopbydept .dropdown-menu
+    {
+        min-width: 200%;
+    }
+    .menu .dropdown-menu .span-menu-title
+    {
+        font-size: 75%;
+    }
+
+    .menu .open > .dropdown-menu
+    {
+        margin-left: -157%;
+    }
+    .menu .dropdown-menu
+    {
+        min-width: 350%;
+    }
+
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 12%;
+        float: left;
+        left: 72%;
+        position: absolute;
+    }
+    .cart
+    {
+        margin: -2px 0 0;
+    }
+
+    .shopbydept .dropdown-toggle span img
+    {
+        width: 70%;
+    }
+
+    .currency p span
+    {
+        margin-left: 6%;
+        margin-right: 6%;
+    }
+    .department-title p
+    {
+        font-size: 58% !important;
+    }
+    .shopbydept p, .menu p, .userbox p, .currency p
+    {
+        font-size: 53%;
+    }
+
+}
+
+@media screen and (max-width: 430px)
+{
+
+    .dropdown-menu > li > a
+    {
+        line-height: 120%;
+    }
+    .menu .dropdown-menu
+    {
+        min-width: 350%;
+    }
+    .menu .open > .dropdown-menu
+    {
+        margin-left: -159%;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 10%;
+        float: left;
+        left: 76%;
+        position: absolute;
+    }
+
+}
+
+
+@media screen and (max-width: 395px)
+{
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 8%;
+        float: left;
+        left: 82%;
+        position: absolute;
+    }
+
+}
+
+
+
+@media screen and (max-width: 360px)
+{
+    .proddesc
+    {
+        font-size: 53%;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 9%;
+        float: left;
+        left: 80%;
+        position: absolute;
+    }
+    .toplogo img
+    {
+        width: 16%;
+    }
+
+    .menu .dropdown-menu
+    {
+        min-width: 300%;
+    }
+    .department-title p
+    {
+        font-size: 46% !important;
+    }
+
+    .secondlogo img
+    {
+        width: 80%;
+        vertical-align: middle;
+    }
+    .shopbydept .navbar .nav > li > a
+    {
+        color: #777777;
+        float: none;
+        padding: 4% 0 0 7%;
+        text-decoration: none;
+    }
+    .shopbydept .dropdown-toggle span img
+    {
+        width: 61%;
+    }
+    .shopbydept p
+    {
+        font-size: 35%;
+    }
+    .userbox p
+    {
+        font-size: 53%;
+    }
+    .menu p
+    {
+        font-size: 53%;
+    }
+    .currency p
+    {
+        font-size: 53%;
+    }
+    .cart
+    {
+        margin: -5px 0;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: -11%;
+        left: 60%;
+    }
+    .secondlogo img
+    {
+        width: 75%;
+    }
+    .shopbydept .dropdown-menu > li > a
+    {
+        line-height: 20px;
+    }
+
+    .menu .dropdown-menu .span-menu-title
+    {
+        font-size: 65%;
+    }
+    .dropdown-menu > li > a
+    {
+        line-height: 125%;
+    }
+    .menu .open > .dropdown-menu
+    {
+        margin-left: -133%;
+    }
+    .menu .dropdown-menu span img
+    {
+        width: 15%;
+    }
+}
+
+@media screen and (max-width: 359px)
+{
+    .proddesc
+    {
+        font-size: 41%;
+    }
+    
+    
+}
+
+
+@media screen and (max-width: 320px)
+{
+    .proddesc
+    {
+        font-size: 41%;
+    }
+    .footernavbar
+    {
+        font-size: 115%;
+    }
+    .menu .dropdown-menu .span-menu-title
+    {
+        font-size: 100%;
+    }
+    .department-title p
+    {
+        font-size: 99% !important;
+    }
+
+    .shopbydept .dropdown-menu > li > a
+    {
+        font-size: 100%;
+    }
+    .navbar
+    {
+        color: #000;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 47%;
+    }
+    .shopbydept .dropdown-toggle span
+    {
+        bottom: 0%;
+        left: 63%;
+    }
+    .menu p
+    {
+        font-size: 100%;
+    }
+    .shopbydept p
+    {
+        font-size: 78%;
+    }
+    .searchbox
+    {
+        padding: 0;
+    }
+    .secondlogo img
+    {
+        width: 80%;
+        vertical-align: middle;
+    }
+}
